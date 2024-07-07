@@ -1,4 +1,4 @@
 <config>
-<!-- and not contains(@name, 'Primitive')-->
 	<set xpath="/items/item[contains(@name, 'Helmet')]/effect_group/passive_effect[@name='ModSlots']/@value">3,3,4,4,5,6</set>
+	<set xpath="//effect_group[@name='PrimitiveHelmet']/passive_effect[@name='ModSlots']/@value">3,3,3,3,3,3</set>
 </config>
