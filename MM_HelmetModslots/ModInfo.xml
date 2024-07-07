@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <xml>
 		<Name value="MM_HelmetModslots" />
-		<DisplayName value="2 more helmet modslots" />
+		<DisplayName value="Modular Mods: Armor - More Helmet Modslots" />
 		<Description value="2 more helmet modslots to address the change from cigar and glasses to helmet mods." />
 		<Author value="Pottervogel" />
 		<Version value="1.0" />
-		<Website value="" />
+		<Website value="https://github.com/Pottervogel/7D2D_V1.0-ModularMods_ArmorMods/" />
 </xml>
